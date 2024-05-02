@@ -1,0 +1,5 @@
+Algorithm: HybridAlgorithm
+Execution Time: 0.01899579999999995 
+Best Fitness: 3.9638883750866887
+Coverage: 100.0%
+

@@ -1,0 +1,5 @@
+Algorithm: CuckooAlgorithm
+Execution Time: 0.02164830000000001 
+Best Fitness: 4.0506109285777
+Coverage: 42.5%
+

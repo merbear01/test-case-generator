@@ -1,0 +1,5 @@
+Algorithm: SimulatedAnnealing
+Execution Time: 0.1356667 
+Best Fitness: 9.340304142550375
+Coverage: 12.5%
+

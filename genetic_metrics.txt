@@ -1,0 +1,5 @@
+Algorithm: GeneticAlgorithm
+Execution Time: 0.3651488 
+Best Fitness: 26.830863406917373
+Coverage: 5.0%
+
